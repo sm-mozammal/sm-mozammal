@@ -25,7 +25,7 @@
 <h3 align="center">A Passionate Flutter Developer from BD </h3>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=2+Year+Plus+Experience;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=3+Year+Plus+Experience;" />
 </h1>
 
 <br/>

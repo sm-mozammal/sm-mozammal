@@ -14,7 +14,7 @@
 - 📫 How to reach me ...
 
 - Skills
-- Flutter ----- Rest API ----- AWS --------- Firebase --------- SQLITE
+- Flutter ----- Rest API ----- AWS ------ Django --------- Firebase --------- SQLITE
 - language
 - Dart ---- C ------ JavaScript
  

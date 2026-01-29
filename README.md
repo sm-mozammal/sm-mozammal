@@ -9,7 +9,7 @@
 - 👋 Hello There, I’m SM Mozammal Hossain
 - 👀 A Passionate Mobile Application Developer Android & IOS (Flutter)
 - 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning ... Flutter  & Dart
+- 🌱 I’m currently learning ... django rest framwork
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

@@ -1,50 +1,176 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sm-mozammal.sm-mozammal" />
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=220&section=header&text=SM%20Mozammal%20Hossain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Flutter%20Developer%20%7C%20Android%20%7C%20iOS%20%7C%20Django%20Backend&descAlignY=55"/>
+</p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+SM+MOZAMMAL!;" />
-</h1>
+<h3 align="center">
+🚀 Flutter Developer • Android • iOS • REST API • Offline First Architecture
+</h3>
 
-<div align="center">
- 
-- 👋 Hello There, I’m SM Mozammal Hossain
-- 👀 A Passionate Mobile Application Developer Android & IOS (Flutter)
-- 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning ... django rest framwork
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p align="center">
+  <a href="https://github.com/sm-mozammal">
+    <img src="https://komarev.com/ghpvc/?username=sm-mozammal&label=Profile+Views&color=2563EB&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/sm-mozammal?tab=followers">
+    <img src="https://img.shields.io/github/followers/sm-mozammal?logo=github&style=for-the-badge&color=2563EB"/>
+  </a>
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-blue?style=for-the-badge"/>
+</p>
 
-- Skills
-- Flutter ----- Rest API ----- AWS ------ Django --------- Firebase --------- SQLITE
-- language
-- Dart ---- C ------ JavaScript
- 
-💬 Ask me about Flutter, Dart, ... or anything [here](https://github.com/sm-mozammal)
+---
 
- </div>
+# 👋 About Me
 
-<h3 align="center">A Passionate Flutter Developer from BD </h3>
+Hi, I'm **SM Mozammal Hossain** from **Bangladesh** 🇧🇩
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=3+Year+Plus+Experience;" />
-</h1>
+I'm a **Flutter Mobile Application Developer** with **3+ years of experience** building scalable Android & iOS applications.
 
-<br/>
+I specialize in creating production-ready apps with **Clean Architecture**, **State Management**, **Offline-First Synchronization**, and **REST APIs**.
 
+### 💼 What I Do
 
- 
+- 📱 Android & iOS App Development using Flutter
+- ⚡ High-performance production applications
+- 🔐 Authentication (JWT, Firebase, OAuth)
+- 🌍 Offline First Apps with SQLite Sync
+- ☁️ Firebase & Cloud Services
+- 🔗 REST API Integration
+- 🏗 Clean Architecture + SOLID Principles
+- 🧩 State Management (Bloc, Riverpod, Provider, GetX)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sm-mozammal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/sm-mozammal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@IbrahimPavel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/s-m-mozammal-hossain-imon-89aa06197/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/PaveLionX)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/pavelionx?igsh=ZThvYWhwMHVqZnJ6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/sm-mozammal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/https://codesandbox.io/u/sm-mozammal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/Infinite-Scratch-36/)  
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+# 🛠 Tech Stack
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sm-mozammal)](https://github.com/sm-mozammal/github-profile-trophy)
+## Mobile Development
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm-mozammal)](https://github.com/sm-mozammal/github-readme-stats)
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio"/>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sm-mozammal&show_icons=true&count_private=true)  
+## Backend
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/sm-mozammal/contributions?format=svg&private=true)  
+<p>
+<img src="https://skillicons.dev/icons?i=django,python,fastapi,nodejs"/>
+</p>
 
-![GitHub metrics](https://metrics.lecoq.io/sm-mozammal)  
+## Database
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=sm-mozammal)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql"/>
+</p>
+
+## Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,aws,postman,vscode,figma"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🛒 **OrderWala DSR App** | Offline-first B2B Sales Force application with order sync, retailer management, visit tracking, and delivery system. |
+| 🏢 **Building Management App** | Apartment & community management system with maintenance, payments, visitor access, QR security, and notices. |
+| 🐶 **Furry Friends** | Dog rescue & treatment application with Google Maps, medical records, image upload, and release tracking. |
+| 🏨 **Nest Suite** | Hotel & property management application with room booking, invoice, and staff management. |
+
+---
+
+# 💼 Flutter Expertise
+
+```text
+✔ Clean Architecture
+✔ MVVM + Repository Pattern
+✔ Dependency Injection (GetIt)
+✔ Bloc / Cubit
+✔ Riverpod
+✔ Provider
+✔ GetX
+✔ SQLite Offline Sync
+✔ Dio + Interceptor + Token Refresh
+✔ Firebase Authentication
+✔ Push Notification
+✔ Google Maps
+✔ Camera / Image Compression
+✔ Localization
+✔ CI/CD
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sm-mozammal&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=sm-mozammal&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm-mozammal&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sm-mozammal&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sm-mozammal&theme=algolia&row=1&column=6&margin-w=10"/>
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Django REST Framework
+- FastAPI
+- Riverpod Advanced
+- Flutter Performance Optimization
+- AWS Deployment
+- AI Integration in Flutter Apps
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/s-m-mozammal-hossain-imon-89aa06197">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+
+  <a href="https://github.com/sm-mozammal">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+
+  <a href="https://facebook.com/your-profile">
+    <img src="https://skillicons.dev/icons?i=facebook"/>
+  </a>
+</p>
+
+---
+
+# 💬 Let's Build Something Amazing Together
+
+<p align="center">
+I'm open to **Flutter Freelance Projects**, **Remote Jobs**, and **Open Source Collaboration**.
+
+⭐ If you like my work, consider following me on GitHub!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=120&section=footer"/>
+</p>
